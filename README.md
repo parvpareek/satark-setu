@@ -2,7 +2,6 @@
 
 A real time crime reporting app:
 
-App demo: pending
 satarksetu app demo - https://drive.google.com/file/d/153xcMGJq2gdOnQW7rmNSY-V3GmDsZe3n/view?usp=sharing
 Law enforcement dashboard demo: https://youtu.be/rkJsrF5KoOA
 
