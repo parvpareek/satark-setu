@@ -8,6 +8,10 @@ Law enforcement dashboard demo: https://youtu.be/rkJsrF5KoOA
 
 Dashboard live link: https://crime-dashboard-filters.vercel.app/
 
+satark-sehali link - https://satark-sehli.vercel.app/
+
+Satarknity (An communit for awareness) - https://satarknity.vercel.app/
+
 ## Overview
 
 The Real Time Crime Reporting App allows citizens to report crimes instantly using multiple channels. It features a multilingual speech interface, video uploads, and form-based reporting. Users can view reports on an interactive map, receive notifications for nearby incidents, and join community discussions. Special safety features like Satark Saheli and a Panic Mode enhance personal security and emergency response.
