@@ -2,8 +2,10 @@
 
 A real time crime reporting app:
 
-App demo: 
+App demo: pending
 Law enforcement dashboard demo: https://youtu.be/rkJsrF5KoOA
+
+Dashboard live link: https://crime-dashboard-filters.vercel.app/
 
 ## Overview
 
